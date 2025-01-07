@@ -31,25 +31,33 @@ A **food ordering system** designed for administrators with a playful **My Littl
 ## Screenshots
 
 ### Main Menu
-![Main Menu](path/to/image1.png)
+![image](https://github.com/user-attachments/assets/ac488491-9dc7-4ba3-bb8d-be5c38c077f0)
+
 
 ### Register Client
 #### Customer Registration
-![Customer Registration](path/to/image2.png)
+![image](https://github.com/user-attachments/assets/e5a74921-7902-4150-af93-5df0dc1e85c6)
+
 #### Restaurant Registration
-![Restaurant Registration](path/to/image3.png)
+![image](https://github.com/user-attachments/assets/cbe46e80-6317-48d5-941f-b7d530e5a4cf)
+
 
 ### Add Order
-![Add Order](path/to/image4.png)
+![image](https://github.com/user-attachments/assets/44a2edf6-fcd2-453f-8426-8b4507fa8f37)
+
 
 ### Search Client
-![Search Client](path/to/image5.png)
+![image](https://github.com/user-attachments/assets/7052544c-2b0e-4ff8-967c-365d1c8d5e57)
+
 
 ### Display All Clients
-![Display All Clients](path/to/image6.png)
+![image](https://github.com/user-attachments/assets/c1681007-a5d3-4c86-bbda-83c13b613b3e)
+
 
 ### Modify Client
-![Modify Client](path/to/image7.png)
+![image](https://github.com/user-attachments/assets/89f2b0ea-595a-4708-9d07-c7f1b16af03f)
+![image](https://github.com/user-attachments/assets/f9d21767-fbbc-4682-b189-f76cc088c83a)
+
 
 ## How to Run the Project
 
