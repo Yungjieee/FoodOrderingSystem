@@ -106,7 +106,7 @@ public class HomePage extends javax.swing.JFrame {
         getContentPane().add(btnExit, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 320, 140, -1));
 
         lblBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/myhellokittyfoodorderingsystem/hkb.png"))); // NOI18N
-        getContentPane().add(lblBackground, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 50, -1, 360));
+        getContentPane().add(lblBackground, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 90, -1, 290));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
