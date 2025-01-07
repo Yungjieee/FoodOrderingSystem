@@ -31,13 +31,14 @@ A **food ordering system** designed for administrators with a playful **My Littl
 ## Screenshots
 
 ### Main Menu
-<img src="![image](https://github.com/user-attachments/assets/ac488491-9dc7-4ba3-bb8d-be5c38c077f0)" alt="Modify Client" width="500">
+<img src="screenshots/modify-client.png" alt="Modify Client" width="500">
 
 ### Register Client
 #### Customer Registration
 ![image](https://github.com/user-attachments/assets/e5a74921-7902-4150-af93-5df0dc1e85c6)
 
 #### Restaurant Registration
+<img src="(https://github.com/user-attachments/assets/cbe46e80-6317-48d5-941f-b7d530e5a4cf" width="500">
 ![image](https://github.com/user-attachments/assets/cbe46e80-6317-48d5-941f-b7d530e5a4cf)
 
 
