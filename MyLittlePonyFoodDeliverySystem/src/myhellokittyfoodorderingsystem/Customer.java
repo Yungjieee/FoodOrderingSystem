@@ -1,5 +1,5 @@
-package mylittleponyfooddeliverysystem;
-
+package myhellokittyfoodorderingsystem;
+// Inheritance: Customer inherit from Client
 public class Customer extends Client{
 
 

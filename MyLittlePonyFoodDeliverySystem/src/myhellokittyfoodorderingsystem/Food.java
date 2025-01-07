@@ -1,4 +1,4 @@
-package mylittleponyfooddeliverysystem;
+package myhellokittyfoodorderingsystem;
 
 public class Food {
 
@@ -15,7 +15,11 @@ public class Food {
         this.food = food;
     }
 
+    // Encapsulation: setPrice
     public void setPrice(double price) {
+        if (price < 0) {
+            throw new IllegalArgumentException("Price cannot be negative");
+        }
         this.price = price;
     }
 
@@ -23,6 +27,7 @@ public class Food {
         return food;
     }
 
+    // Encapsulation: getPrice
     public double getPrice() {
         return price;
     }

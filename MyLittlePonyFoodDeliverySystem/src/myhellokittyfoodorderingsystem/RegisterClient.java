@@ -1,5 +1,5 @@
 
-package mylittleponyfooddeliverysystem;
+package myhellokittyfoodorderingsystem;
 
 import java.awt.Color;
 import java.awt.Dimension;

@@ -1,8 +1,8 @@
-package mylittleponyfooddeliverysystem;
+package myhellokittyfoodorderingsystem;
 
 import java.util.List;
 import java.util.Objects;
-
+// Restaurant inherit from Client
 public class Restaurant extends Client {
 
     private List<Food> foods;

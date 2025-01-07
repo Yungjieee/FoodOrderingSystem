@@ -1,4 +1,4 @@
-package mylittleponyfooddeliverysystem;
+package myhellokittyfoodorderingsystem;
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -353,7 +353,7 @@ public class ModifyClient extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(panelModify, javax.swing.GroupLayout.PREFERRED_SIZE, 635, Short.MAX_VALUE)
+            .addComponent(panelModify, javax.swing.GroupLayout.DEFAULT_SIZE, 635, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

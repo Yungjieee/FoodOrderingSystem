@@ -1,4 +1,4 @@
-package mylittleponyfooddeliverysystem;
+package myhellokittyfoodorderingsystem;
 
 public class HomePage extends javax.swing.JFrame {
 
@@ -105,7 +105,7 @@ public class HomePage extends javax.swing.JFrame {
         });
         getContentPane().add(btnExit, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 320, 140, -1));
 
-        lblBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/mylittleponyfooddeliverysystem/hkb.png"))); // NOI18N
+        lblBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/myhellokittyfoodorderingsystem/hkb.png"))); // NOI18N
         getContentPane().add(lblBackground, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 50, -1, 360));
 
         pack();

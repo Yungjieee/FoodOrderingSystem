@@ -1,4 +1,4 @@
-package mylittleponyfooddeliverysystem;
+package myhellokittyfoodorderingsystem;
 
 import java.util.Date;
 import java.util.List;
