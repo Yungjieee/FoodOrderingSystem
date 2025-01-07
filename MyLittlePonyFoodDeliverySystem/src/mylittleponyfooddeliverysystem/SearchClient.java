@@ -11,7 +11,7 @@ public class SearchClient extends javax.swing.JFrame {
     private HomePage homePage;
 
     public SearchClient(HomePage homePage) {
-        setTitle("My Little Pony");
+        setTitle("MyHelloKitty");
         clientOp = new ClientOperation();
         this.homePage = homePage;
         initComponents();

@@ -16,7 +16,7 @@ public class ModifyClient extends javax.swing.JFrame {
     private HomePage homePage;
 
     public ModifyClient(HomePage homePage) {
-        setTitle("My Little Pony");
+        setTitle("MyHelloKitty");
         initComponents();
         btnDelete.setEnabled(false);
         txtName.setEnabled(false);

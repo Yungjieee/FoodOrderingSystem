@@ -3,7 +3,7 @@ package mylittleponyfooddeliverysystem;
 public class HomePage extends javax.swing.JFrame {
 
     public HomePage() {
-        setTitle("My Little Pony");
+        setTitle("MyHelloKitty");
         initComponents();
     }
 
@@ -72,10 +72,10 @@ public class HomePage extends javax.swing.JFrame {
         });
         getContentPane().add(btnModifyClient, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 280, 140, -1));
 
-        jPanel1.setBackground(new java.awt.Color(255, 102, 153));
+        jPanel1.setBackground(new java.awt.Color(243, 229, 191));
 
         lblTitle.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        lblTitle.setText("MY LITTLE PONY FOOD DELIVERY SYSTEM");
+        lblTitle.setText("MY HELLO KITTY FOOD ORDERING SYSTEM");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -105,8 +105,8 @@ public class HomePage extends javax.swing.JFrame {
         });
         getContentPane().add(btnExit, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 320, 140, -1));
 
-        lblBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/mylittleponyfooddeliverysystem/background.png"))); // NOI18N
-        getContentPane().add(lblBackground, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 80, -1, 300));
+        lblBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/mylittleponyfooddeliverysystem/hkb.png"))); // NOI18N
+        getContentPane().add(lblBackground, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 50, -1, 360));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents

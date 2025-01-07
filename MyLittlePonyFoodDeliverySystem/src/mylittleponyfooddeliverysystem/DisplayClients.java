@@ -12,7 +12,7 @@ public class DisplayClients extends javax.swing.JFrame {
     private HomePage homePage;
 
     public DisplayClients(HomePage homePage) {
-        setTitle("My Little Pony");
+        setTitle("MyHelloKitty");
         initComponents();
         clientOp = new ClientOperation();
         this.homePage = homePage;

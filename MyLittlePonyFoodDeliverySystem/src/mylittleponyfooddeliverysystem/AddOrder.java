@@ -17,6 +17,7 @@ public class AddOrder extends javax.swing.JFrame {
     private List<OrderItem> orderedFood;
 
     public AddOrder(HomePage homePage) {
+        setTitle("MyHelloKitty");
         initComponents();
         clientOp = new ClientOperation();
         this.homePage = homePage;
